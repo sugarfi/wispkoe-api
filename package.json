@@ -1,6 +1,6 @@
 {
   "name": "wispkoe-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "api for wispkoe because it seemed cool",
   "main": "index.js",
   "repository": "https://github.com/sugarfi/wispkoe-api",
